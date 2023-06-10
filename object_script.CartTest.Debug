@@ -1,0 +1,10 @@
+debug/carddialog.o
+debug/inputparamsdialog.o
+debug/main.o
+debug/mainwindow.o
+debug/repository.o
+debug/testinfo.o
+debug/videocard.o
+debug/moc_carddialog.o
+debug/moc_inputparamsdialog.o
+debug/moc_mainwindow.o

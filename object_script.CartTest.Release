@@ -1,0 +1,10 @@
+release/carddialog.o
+release/inputparamsdialog.o
+release/main.o
+release/mainwindow.o
+release/repository.o
+release/testinfo.o
+release/videocard.o
+release/moc_carddialog.o
+release/moc_inputparamsdialog.o
+release/moc_mainwindow.o
